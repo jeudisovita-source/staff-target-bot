@@ -1,0 +1,46 @@
+{
+  "venues": {
+    "gameland": {
+      "chat_id": -1000000000001,
+      "staff": [
+        {"name": "Staff Name 1", "username": "staff1_tg_handle"},
+        {"name": "Staff Name 2", "username": null}
+      ]
+    },
+    "space_bunny": {
+      "chat_id": -1000000000002,
+      "staff": [
+        {"name": "Staff Name 1", "username": "staff1_tg_handle"},
+        {"name": "Staff Name 2", "username": null}
+      ]
+    },
+    "waowao_eden_garden": {
+      "chat_id": -1000000000003,
+      "staff": [
+        {"name": "Staff Name 1", "username": "staff1_tg_handle"},
+        {"name": "Staff Name 2", "username": null}
+      ]
+    },
+    "waowao_271": {
+      "chat_id": -1000000000004,
+      "staff": [
+        {"name": "Staff Name 1", "username": "staff1_tg_handle"},
+        {"name": "Staff Name 2", "username": null}
+      ]
+    },
+    "waowao_aeon1": {
+      "chat_id": -1000000000005,
+      "staff": [
+        {"name": "Staff Name 1", "username": "staff1_tg_handle"},
+        {"name": "Staff Name 2", "username": null}
+      ]
+    }
+  },
+  "timezone": "Asia/Phnom_Penh",
+  "schedule": {
+    "morning_post": "08:00",
+    "afternoon_post": "13:00",
+    "evening_reminder": "17:00",
+    "night_reminder": "22:00"
+  }
+}
